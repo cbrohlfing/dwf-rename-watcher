@@ -1,0 +1,63 @@
+﻿2026-02-04T13:45:11 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:45:11 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:45:11 STATUS: online (1/1 folders reachable)
+2026-02-04T13:45:45 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:45:45 APPLIED SETTINGS: paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543; M:\TEST
+2026-02-04T13:45:45 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:45:45 STATUS: mixed (1/2 folders reachable)
+2026-02-04T13:48:44 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:48:44 SCRIPT EXIT (v1.4)
+2026-02-04T13:48:47 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543; M:\TEST
+2026-02-04T13:48:47 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:48:47 STATUS: mixed (1/2 folders reachable)
+2026-02-04T13:49:26 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543; M:\TEST
+2026-02-04T13:49:27 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:49:27 STATUS: mixed (1/2 folders reachable)
+2026-02-04T13:52:15 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:52:15 SCRIPT EXIT (v1.4)
+2026-02-04T13:52:17 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:52:17 SCRIPT EXIT (v1.4)
+2026-02-04T13:52:56 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:52:56 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:52:56 STATUS: online (1/1 folders reachable)
+2026-02-04T13:53:15 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:53:15 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:53:15 STATUS: online (1/1 folders reachable)
+2026-02-04T13:53:18 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:53:18 SCRIPT EXIT (v1.4)
+2026-02-04T13:53:19 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:53:19 SCRIPT EXIT (v1.4)
+2026-02-04T13:54:19 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:54:19 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:54:19 STATUS: online (1/1 folders reachable)
+2026-02-04T13:58:59 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T13:58:59 SCRIPT EXIT (v1.4)
+2026-02-04T14:07:42 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T14:07:42 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T14:07:42 STATUS: online (1/1 folders reachable)
+2026-02-04T14:09:12 RENAMED: '100016068.idw.dwf' -> '100016068.dwf'
+2026-02-04T14:37:43 REFRESHING WATCHER (age limit reached) on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T14:37:43 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T14:37:43 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T14:40:05 RENAMED: '100004615.idw.dwf' -> '100004615.dwf'
+2026-02-04T14:40:32 RENAMED: '100005616.idw.dwf' -> '100005616.dwf'
+2026-02-04T14:41:48 RENAMED: '100005616.idw.dwf' -> '100005616.dwf'
+2026-02-04T14:42:04 RENAMED: '100004615.idw.dwf' -> '100004615.dwf'
+2026-02-04T15:07:48 REFRESHING WATCHER (age limit reached) on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T15:07:48 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T15:07:48 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-04T15:20:20 RENAMED: '100013403.idw.dwf' -> '100013403.dwf'
+2026-02-04T15:21:19 RENAMED: '100013403.idw.dwf' -> '100013403.dwf'
+2026-02-11T08:09:57 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:09:57 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:09:57 STATUS: online (1/1 folders reachable)
+2026-02-11T08:16:45 SCRIPT START (v1.4): settings=C:\Scripts\v1.4\dwf_rename_settings.json paths=\\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:16:45 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:16:45 STATUS: online (1/1 folders reachable)
+2026-02-11T08:41:09 RENAMED: '100004024.idw.dwf' -> '100004024.dwf'
+2026-02-11T08:44:53 RENAMED: '100004024.idw.dwf' -> '100004024.dwf'
+2026-02-11T08:46:46 REFRESHING WATCHER (age limit reached) on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:46:46 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:46:46 WATCHER STARTED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:50:34 WATCHER STOPPED on \\Usvaldcfs1.na.valmont.com\Cadshare\ORDERS\TP\cr713543
+2026-02-11T08:50:34 SCRIPT EXIT (v1.4)
