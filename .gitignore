@@ -1,0 +1,11 @@
+# Logs
+*.log
+
+# Windows shortcut files
+*.lnk
+
+# VSCode
+.vscode/
+
+# Temporary files
+*.tmp
