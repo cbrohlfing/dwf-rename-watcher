@@ -9,3 +9,6 @@
 
 # Temporary files
 *.tmp
+
+#Any Release Version Folder
+v*/
