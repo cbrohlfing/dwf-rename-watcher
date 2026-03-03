@@ -1,6 +1,0 @@
-{
-  "terminal.integrated.defaultProfile.windows": "PowerShell",
-  "terminal.integrated.cwd": "C:\\Scripts\\DWF Rename",
-  "files.trimTrailingWhitespace": true,
-  "files.insertFinalNewline": true
-}
